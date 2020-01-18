@@ -159,13 +159,6 @@ class Hangman:
             messagebox.showinfo("Hello", "You lost please try again!")
             self.rr.destroy()
 
-
-
-     
-            
-
-        
-
 root = Tk()
 root.title("Hangman Game")
 root.geometry("1000x500")
