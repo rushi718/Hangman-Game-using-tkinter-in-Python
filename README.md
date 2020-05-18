@@ -1,4 +1,6 @@
 # Hangman-Game-using-tkinter-in-Python
+Article at Codespeedy
+https://www.codespeedy.com/hangman-game-with-gui-in-python-using-tkinter/
 Hangman is Word Guessing Game, I implemented it using Python and GUI is made with tkinter Module
 ## GUI IMAGES
 
